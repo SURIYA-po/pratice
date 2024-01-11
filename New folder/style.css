@@ -1,0 +1,17 @@
+.grid_container{
+    height:100vh;
+      
+    display:grid;
+    grid-template-columns: 1fr 1fr 1.5fr;
+    grid-template-rows: 1fr 1fr;
+  gap:3rem;
+
+
+
+}
+.grid_item{
+    
+    
+    background-color: blueviolet;
+    border:2px,black,solid;
+}
